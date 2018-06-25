@@ -1,0 +1,17 @@
+/* 
+
+Identifier naming griudeline:
+1. namespace all Capital
+2. member variables m_variableName
+3. member Function m_FuntionName
+4. class name ClassName
+5. non member variable name 
+			non member function scope f_variableName ,
+			main scope vaiableName, 
+			global scope g_variableName
+			static s_vaiableName
+6. non member function name functionName()
+
+
+
+*/
