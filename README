@@ -11,7 +11,12 @@ Identifier naming griudeline:
 			global scope g_variableName
 			static s_vaiableName
 6. non member function name functionName()
+7. function parameter p_variableName
+8. typedef enum{} eName_t m_eVariableName
+8. typedef struct{} sName_t m_sVariableName
+9. static int s_name
 
-
+Best practice: When declaring a pointer variable, put the asterisk next to the variable name.
+Best practice: When declaring a function, put the asterisk of a pointer return value next to the type.
 
 */
